@@ -1,6 +1,6 @@
 const initialState = {
     classes: [],
-    isFetching: false;
+    isFetching: false,
     error: "",
     edit: 0,
     editing: false
