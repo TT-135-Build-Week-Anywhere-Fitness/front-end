@@ -23,7 +23,7 @@ const SingleClass = (props) => {
       console.log(arr)
       console.log(res)
     })
-    .catch(drama=>{
+    .catch(err=>{
         
     })
        }
